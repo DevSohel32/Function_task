@@ -12,10 +12,3 @@ function count_zero(stri) {
 console.log(count_zero(101010777000));
 
 
-function num_check(numbers){
-const num1 = 0
-for(let num of numbers){
-    
-}
-
-}
